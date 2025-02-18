@@ -1,0 +1,3 @@
+# Dependencies for this game is Pygames
+
+pygame>=2.1.2
