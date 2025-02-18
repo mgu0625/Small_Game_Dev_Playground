@@ -1,4 +1,4 @@
-# Tic-Tac-Toe (Python & Pygame)
+# ⭕️Tic-Tac-Toe (Python & Pygame)❌
 ### About this project
 This repository contains three different implementations of Tic-Tac-Toe, each showcasing a different approach to coding the game. This project was developed as part of my game development learning journey, using Python and Pygame to explore UI and logic optimization.
 
